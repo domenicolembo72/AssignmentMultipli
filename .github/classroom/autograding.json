@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "TEST EXERCISE",
+      "name": "TEST EXERCISE ES1",
       "setup": "sudo -H pip3 install pytest",
-      "run": "pytest",
+      "run": "pytest test_es1.py",
       "input": "",
       "output": "",
       "comparison": "included",

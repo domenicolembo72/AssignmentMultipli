@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": 4
+    },
+    {
+      "name": "TEST EXERCISE ES2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_es2.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
     }
   ]
 }

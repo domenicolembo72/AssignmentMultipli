@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "test_es1.py",
+      "name": "TEST EXERCISE",
       "setup": "sudo -H pip3 install pytest",
       "run": "pytest",
       "input": "",
@@ -9,17 +9,6 @@
       "comparison": "included",
       "timeout": 10,
       "points": 4
-    },
-    {
-      
-      "name": "test_es2.py",
-      "setup": "sudo -H pip3 install pytest",
-      "run": "pytest",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 5
     }
   ]
 }
